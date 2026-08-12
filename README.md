@@ -19,3 +19,15 @@ Just clone the repo and open `index.html` in any browser:
 git clone https://github.com/nazdridoy/redlime-mvp.git
 cd redlime-mvp
 ```
+
+## Other Projects
+
+Some of my other open source projects and lab repositories:
+
+- **[nazHome](https://github.com/nazdridoy/nazhome):** Personal web dashboard built with vanilla JS, HTML5, and CSS3.
+- **[ngpt](https://github.com/nazdridoy/ngpt):** Multi-provider LLM CLI tool supporting streaming, interactive chat, and git commit messages.
+- **[NazNetLabs](https://github.com/nazdridoy/NazNetLabs):** Network engineering and sysadmin lab configs for MikroTik, RHEL, and Windows Server.
+- **[alpinet](https://github.com/nazdridoy/alpinet):** Lightweight Alpine Linux network appliance published on the GNS3 Marketplace.
+- **[kokoro-tts](https://github.com/nazdridoy/kokoro-tts):** Python CLI wrapper for the Kokoro text-to-speech engine.
+
+GitHub: [@nazdridoy](https://github.com/nazdridoy)
